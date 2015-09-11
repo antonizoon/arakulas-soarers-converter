@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoarerReverse", "SoarerReverse.vcproj", "{468D68D6-D8DC-437C-A3BA-1388D081336B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		AdaFruit|Win32 = AdaFruit|Win32
+		ProMicro|Win32 = ProMicro|Win32
+		Teensy20|Win32 = Teensy20|Win32
+		TeensyPP1|Win32 = TeensyPP1|Win32
+		TeensyPP2|Win32 = TeensyPP2|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468D68D6-D8DC-437C-A3BA-1388D081336B}.AdaFruit|Win32.ActiveCfg = AdaFruit|Win32
+		{468D68D6-D8DC-437C-A3BA-1388D081336B}.AdaFruit|Win32.Build.0 = AdaFruit|Win32
+		{468D68D6-D8DC-437C-A3BA-1388D081336B}.ProMicro|Win32.ActiveCfg = ProMicro|Win32
+		{468D68D6-D8DC-437C-A3BA-1388D081336B}.ProMicro|Win32.Build.0 = ProMicro|Win32
+		{468D68D6-D8DC-437C-A3BA-1388D081336B}.Teensy20|Win32.ActiveCfg = Teensy20|Win32
+		{468D68D6-D8DC-437C-A3BA-1388D081336B}.Teensy20|Win32.Build.0 = Teensy20|Win32
+		{468D68D6-D8DC-437C-A3BA-1388D081336B}.TeensyPP1|Win32.ActiveCfg = TeensyPP1|Win32
+		{468D68D6-D8DC-437C-A3BA-1388D081336B}.TeensyPP1|Win32.Build.0 = TeensyPP1|Win32
+		{468D68D6-D8DC-437C-A3BA-1388D081336B}.TeensyPP2|Win32.ActiveCfg = TeensyPP2|Win32
+		{468D68D6-D8DC-437C-A3BA-1388D081336B}.TeensyPP2|Win32.Build.0 = TeensyPP2|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
